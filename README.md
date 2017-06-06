@@ -1,3 +1,1 @@
-# leonelgoncalves.github.io
-
-Example content
+Repository and file for main website.
