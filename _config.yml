@@ -10,9 +10,8 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 
 google_analytics: UA-XXXXX-XX
 repo: https://github.com/leonelgoncalves/leonelgoncalves.github.io
-disqus_shortname: "leonelaugustogonalves"
+disqus_shortname: "leonelgoncalves"
 github_username:  "leonelgoncalves"
-
 comments: true
 
 # Build settings
