@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Leonel Augusto Torrealba Gonçalves, I am a graduate of Computer Engineering with advanced knowledge software development, solid basis in software engineering, training Project Management and lover of agile methodologies. I define myself as a lover of technology and am constantly updating my knowledge of new trends and paradigms in order to always be at the forefront in the field of computing.
+My name is **Leonel Augusto Torrealba Gonçalves**, I am a graduate of Computer Engineering with advanced knowledge software development, solid basis in software engineering, training Project Management and lover of agile methodologies. I define myself as a lover of technology and am constantly updating my knowledge of new trends and paradigms in order to always be at the forefront in the field of computing.
 
 My favorite fields are project management, planning and development of software applications of any kind and developing applications using Xscript (I like almost all type of scripting languages but have special love for Javascript (ES5 or ES6) and TypeScript).
 

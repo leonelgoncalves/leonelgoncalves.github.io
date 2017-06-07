@@ -184,6 +184,13 @@ hr {
   @extend .link;
 }
 
+.read-more-link{  
+    @extend .link;
+    font-size: medium;
+    text-align: right;
+    float: right;
+  }
+
 .post {
   @extend .clearfix;
 }

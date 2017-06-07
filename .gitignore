@@ -1,6 +1,7 @@
 _site/
 .sass-cache/
 .bundle/
+drafts/
 
 # Windows image file caches
 Thumbs.db

@@ -37,7 +37,7 @@ author:
   email    : liongoncalves@gmail.com
   url      : https://leonelgoncalves.github.io/
   facebook : https://www.facebook.com/leonel.goncalves1
-  linkedin : http://linkedin.com/in/nrird
+  linkedin : https://www.linkedin.com/in/leonel-goncalves
 
 gems:
   - bourbon
@@ -50,4 +50,4 @@ navbar:
   - slug : blog
     title: Blog
 
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+exclude: ["drafts", "gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
