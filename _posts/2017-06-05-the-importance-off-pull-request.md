@@ -2,7 +2,7 @@
 layout: post
 title: "The Importance of Pull Request"
 comments: true
-description: "In this article I point out which are the most important things every pull reguest should have, and breefly explain they should have it."
+description: "In this post I point out which are the most important things every pull reguest should have, and breefly explain they should have it."
 keywords: "pull request"
 ---
 
