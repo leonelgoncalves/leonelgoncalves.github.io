@@ -54,12 +54,12 @@ working properly.
 All of this had a cost of:
 - Test team: 1.5h (junior) = $150
 - UI team:
-- 0.5h to find the issue (senior) = $75
-- 0.5 * whole team = $262
-- 0.5h to fix the issue (junior) = $50
+    - 0.5h to find the issue (senior) = $75
+    - 0.5 * whole team = $262
+    - 0.5h to fix the issue (junior) = $50
 - Backend:
-- 0.5h to add the functionality (junior) = $50
-- 0.5h whole team = $262
+    - 0.5h to add the functionality (junior) = $50
+    - 0.5h whole team = $262
 - Management: 0.5h = $100
 
 So the cost of this was $950. If the back end team had notified the UI
