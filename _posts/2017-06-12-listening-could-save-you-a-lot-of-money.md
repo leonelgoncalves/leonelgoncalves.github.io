@@ -31,7 +31,7 @@ So that gives us a base.
 Sometimes changes need to be added on the go, and while for some
 people they can be simple and small, they can cause issues in other
 parts of the project. This happened to me at least twice with
-different teams. The the team in charge of doing the business logic
+different teams. The team in charge of doing the business logic
 (backend) noticed that they will need a new field in the near future
 for them to be able to accomplish a task, and, since they were working
 on a similar issue, they added it, which took them half an hour.
