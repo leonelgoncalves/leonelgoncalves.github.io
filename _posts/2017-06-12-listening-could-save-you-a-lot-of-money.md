@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Listening could save you a lot money"
+title: "Listening could save you a lot of money"
 comments: true
 description: "In this post I talk about why you should speak up and why if you are on a higher position
 you should listen to your juniors."
