@@ -14,7 +14,7 @@ disqus_url: "leonelgoncalves"
 disqus_shortname: "leonelgoncalves"
 github_username:  "leonelgoncalves"
 comments: true
-
+future: true
 # Build settings
 permalink   : /:year/:title/
 markdown    : kramdown
@@ -33,7 +33,7 @@ author:
   name     : "Leonel Goncalves"
   job      : "Software Engineer"
   bio      : "Perfection is not attainable, but if we chase perfection we can catch excellence."
-  thumb    : /images/auhor.jpg
+  thumb    : /images/fromUndefined.png
   email    : liongoncalves@gmail.com
   url      : http://leonelgoncalves.com/
   facebook : https://www.facebook.com/leonel.goncalves1
@@ -47,7 +47,5 @@ gems:
 navbar:
   - slug : about
     title: About
-  - slug : blog
-    title: Blog
 
 exclude: ["drafts", "gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
