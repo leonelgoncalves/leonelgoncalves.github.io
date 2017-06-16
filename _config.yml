@@ -5,6 +5,7 @@ title2: "Undefined" # default: ""
 description: "Another insight to developer's issues.."
 keywords: "leonel, goncalves, download, SEO, blog, web, minimalist, thinkspace"
 url: http://leonelgoncalves.com/ # site url
+cover: /assets/images/fromUndefined.png
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
@@ -33,7 +34,6 @@ author:
   name     : "Leonel Goncalves"
   job      : "Software Engineer"
   bio      : "Perfection is not attainable, but if we chase perfection we can catch excellence."
-  thumb    : /images/fromUndefined.png
   email    : liongoncalves@gmail.com
   url      : http://leonelgoncalves.com/
   facebook : https://www.facebook.com/leonel.goncalves1
