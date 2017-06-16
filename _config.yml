@@ -5,7 +5,7 @@ title2: "Undefined" # default: ""
 description: "Another insight to developer's issues.."
 keywords: "leonel, goncalves, download, SEO, blog, web, minimalist, thinkspace"
 url: http://leonelgoncalves.com/ # site url
-cover: /assets/images/fromUndefined.png
+cover: assets/images/fromUndefined.png
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
