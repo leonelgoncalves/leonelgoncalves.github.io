@@ -11,7 +11,7 @@ One of the worst things an application can have is suffering from poor performan
 This is a problem I have seen in web applications of all sizes, and, when in some cases is the back end's responsibility to try to improve the queries and send back the information as soon as posible, there are a lot of cases in which the data is not being correctly handled, causing huge waiting time to the users. Most developers think that they can do almost every thing they want with the data without thinking about the impact this is going to have when the application
 is in production, but afterwards, they are the only ones to blame when the application crashes.
 
-## THE OLD TOWN
+## THE WHITE SHEEPS
 
 There's a whole world of built in utilities to handle arrays of data but for the sake of keeping this article short, let's focus on the most used ones (I'll talk about the other ones in the future) which are map, filter and forEach.
 
