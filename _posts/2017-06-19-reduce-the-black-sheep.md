@@ -2,7 +2,7 @@
 layout: post
 title: "Reduce. The black sheep"
 comments: true
-description: "A breef introduction on why to use reduce function and it's benefits"
+description: "A brief introduction on why to use reduce function and it's benefits"
 keywords: "javascript, basic"
 --- 
 
