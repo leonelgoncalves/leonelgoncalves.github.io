@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Managers, your live can be easier"
+title: "Managers, your life can be easier"
 comments: true
-description: "Some tips about how you as a manager can make your live easier and get better results"
+description: "Some tips about how you as a manager can make your life easier and get better results"
 keywords: "management"
 --- 
 
