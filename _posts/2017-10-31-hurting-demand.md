@@ -2,7 +2,7 @@
 layout: post
 title: "Is the demand in the IT field hurting developers quality of work?"
 comments: true
-description: "Some thoughts about why the IT field is hurting the performance of the best and encouraging the bad ones."
+description: "Some thoughts about why the IT field is hurting the performance of the best employees and encouraging the bad ones."
 keywords: "employment, IT, bad practices"
 --- 
 
